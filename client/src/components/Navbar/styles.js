@@ -3,7 +3,7 @@ import { deepPurple } from '@material-ui/core/colors';
 
 export default makeStyles((theme) => ({
   appBar: {
-    borderRadius: 50,
+    borderRadius: 60,
     margin: '20px 0',
     display: 'flex',
     flexDirection: 'row',
